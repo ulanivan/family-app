@@ -11,3 +11,5 @@ export default {
   components: { Hello }
 }
 </script>
+
+<style scoped></style>
